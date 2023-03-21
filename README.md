@@ -18,7 +18,7 @@ The aim of the project is to gather, assess and clean the data to get it ready f
 
 .  
 ├── wrangle_act.ipynb <a href="https://colab.research.google.com/github/vickruto/we-rate-dogs-data-wrangling/blob/main/wrangle_act.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  :  ***Main Project notebook containing code for gathering, assessing, cleaning, analyzing, and visualizing data***
+  :  ***Main Project notebook containing code for gathering, assessing, cleaning, analyzing, and visualizing data***  
 ├── wrangle_report.html : ***A documentation of the data wrangling steps taken: gathering, assessing, and cleaning***  
 ├── wrangle_report.ipnyb : ***The notebook used to generate the wrangle_report***  
 ├── act_report.html : ***A documentation of the insights and the visualizations produced from the wrangled data.***  
