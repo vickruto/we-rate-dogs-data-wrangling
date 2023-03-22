@@ -1,7 +1,7 @@
 ## Python Data Wrangling Project
 ### @dog_rates Tweets Data Wrangling and Analysis
 
-The aim of the project is to gather, assess and clean the data to get it ready for downstream analysis, visualization and/or modeling. A brief preliminary analysis and visualization is included.
+The aim of the project is to gather, assess and clean dog ratings data to get it ready for downstream analysis, visualization and/or modeling. A brief preliminary analysis and visualization is included.
 
 ## The Data Used ::
  - `twitter_archive_enhanced.csv` :  A static text file containing an archive of tweets from Twitter account @dog_rates from 2015-11-15 to 2017-08-01. Available [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv)
@@ -36,7 +36,7 @@ The following insights were gathered from analysis of the cleaned master dataset
 
 1) Tweets tweeted on Wednesday are likely to get the least number of favorites and retweets while tweets tweeted on Tuesday are likely to get the highest number of favorites
 
-2) Tweets with [`Gofundme`](www.gofundme.com)`(a crowdfunding platform)` links do not get more retweets or favorites for exposure as would be expected since WeRateDogs® is also a non-profit organization concerned with rescuing dogs and seeking treatment for sick dogs. Instead, they actually get less retweets and favorites.
+2) Tweets with `Gofundme(a crowdfunding platform)` links do not get more retweets or favorites for exposure as would be expected since WeRateDogs® is also a non-profit organization concerned with rescuing dogs and seeking treatment for sick dogs. Instead, they actually get less retweets and favorites.
 
 3)  Tweets with videos are likely to get 5 times as many likes and 7 times as many retweets as tweets with only pictures
 
